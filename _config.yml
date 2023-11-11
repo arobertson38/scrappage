@@ -1,3 +1,15 @@
 theme: minima
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+
+title: Your awesome title
+author:
+  name: Andreas E. Robertson
+  email: arobertson38@gatech.edu
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  This is the official home of the MICRO2D dataset, a large, statistically
+  diverse heterogeneous microstructure dataset comprised of 87,300 2-phase
+  microstructures. In addition, the dataset contains salient elastic and
+  thermal homogenized properties as well as elastic local fields computed
+  across a range of constituentive contrast ratios.
